@@ -33,11 +33,3 @@ yarn migrate
 ```bash
 yarn dev
 ```
-
-## Linter checks
-
-If you only want to do linter checks, you can execute the code below.
-
-```bash
-yarn lint
-```

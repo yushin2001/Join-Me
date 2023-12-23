@@ -33,3 +33,7 @@ yarn migrate
 ```bash
 yarn dev
 ```
+
+## See Join-Me website
+
+https://join-me-angelas-projects-53448ec1.vercel.app

@@ -1,3 +1,5 @@
+# Join-Me
+
 ## Running the app
 
 ### 1. Install dependencies
